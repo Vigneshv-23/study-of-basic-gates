@@ -63,6 +63,7 @@ Y= A⊕B
 
 
 **PROGRAM**
+```
 module digi(a,b,c,d,e,x,y,z);
 
 input a,b;
@@ -82,12 +83,13 @@ nor(y,a,b);
 xnor(z,a,b);
 
 endmodule
+```
 
  Developed by: RegisterNumber: 212223110062
  
 **Logic symbol & Truthtable**
 ![image](https://github.com/Vigneshv-23/study-of-basic-gates/assets/110780412/30e3fb9a-498c-4314-8a29-020e51d7055e)
-![image](https://github.com/Vigneshv-23/study-of-basic-gates/assets/110780412/a1b38fd3-3f55-4d67-86f3-22c25686eb9e)
+       ![image](https://github.com/Vigneshv-23/study-of-basic-gates/assets/110780412/a1b38fd3-3f55-4d67-86f3-22c25686eb9e)
 
 
 
@@ -102,5 +104,5 @@ endmodule
 
 
 **Result:**
-
+output was verfied successfully
 
