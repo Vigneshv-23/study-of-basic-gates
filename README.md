@@ -63,16 +63,43 @@ Y= A⊕B
 
 
 **PROGRAM**
+module digi(a,b,c,d,e,x,y,z);
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+input a,b;
 
- Developed by: RegisterNumber: 
+output c,d,e,x,y,z;
+
+and(c,a,b);
+
+or(d,a,b);
+
+xor(e,a,b);
+
+nand(x,a,b);
+
+nor(y,a,b);
+
+xnor(z,a,b);
+
+endmodule
+
+ Developed by: RegisterNumber: 212223110062
  
 **Logic symbol & Truthtable**
+![image](https://github.com/Vigneshv-23/study-of-basic-gates/assets/110780412/30e3fb9a-498c-4314-8a29-020e51d7055e)
+![image](https://github.com/Vigneshv-23/study-of-basic-gates/assets/110780412/a1b38fd3-3f55-4d67-86f3-22c25686eb9e)
 
-**RTL realization Output:** 
+
+
+
+**output**
+![image](https://github.com/Vigneshv-23/study-of-basic-gates/assets/110780412/e84ce769-e8b4-48e0-bb54-d944e0413a30)
+
+
 
 **RTL**
+![image](https://github.com/Vigneshv-23/study-of-basic-gates/assets/110780412/20779764-7809-4918-9a9c-b7b985eb6691)
+
 
 **Result:**
 
