@@ -95,7 +95,8 @@ endmodule
 
 
 **output**
-![image](https://github.com/Vigneshv-23/study-of-basic-gates/assets/110780412/e84ce769-e8b4-48e0-bb54-d944e0413a30)
+![image](https://github.com/Vigneshv-23/study-of-basic-gates/assets/110780412/31981926-7878-4ece-b466-282c54cd007b)
+
 
 
 
